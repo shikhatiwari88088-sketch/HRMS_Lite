@@ -1,1 +1,1 @@
-web: gunicorn hrms.wsgi
+web: gunicorn core.wsgi
